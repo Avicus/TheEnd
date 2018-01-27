@@ -180,7 +180,7 @@ public class ValedictionAnnouncer implements Listener {
       "Myworld6", "hasl", "AMIES", "Spartemex", "TheMasterClock", "Clijmart", "killerbye22",
       "imryaan", "Posighdun", "Ciaan", "resepignev", "XGalibur", "BoldAndBrash", "xNemoII",
       "XtraTestic4l", "IzikW", "Kashike", "Zeusy", "Sp4rrkii", "PokerFace", "EncryptedShoesHD",
-      "dicip", "Riilo", "Cyclops", "rinn", "Vobaseball12"};
+      "dicip", "Riilo", "Cyclops", "rinn", "Vobaseball12", "steven5703"};
 
   @EventHandler
   public void onPing(ProxyPingEvent event) {
