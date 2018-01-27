@@ -1,0 +1,4 @@
+name: Goodbye
+main: net.avicus.goodbye.Goodbye
+version: ${project.version}
+author: Avicus Network
